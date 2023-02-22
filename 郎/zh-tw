@@ -1,0 +1,178 @@
+{
+  "ACTOR": {
+    "TypeCharacter": "玩家角色",
+    "TypeMonster": "怪物"
+  },
+  "IMPORT": {
+    "Notif": {
+      "Items": "API Import - 開始從官網API導入Items...",
+      "ItemsDone": "API 導入 - 項目導入完成！",
+      "Skills": "API Import - 開始從官網API導入技能...",
+      "SkillsDone": "API 導入 - 技能導入完成！"
+    }
+  },
+  "ITEM": {
+    "TypeAccessory": "飾品",
+    "TypeArmor": "盔甲",
+    "TypeBag": "背包",
+    "TypeConnection": "角色關係",
+    "TypeGear": "装備",
+    "TypeShield": "盾牌",
+    "TypeSkill": "技能",
+    "TypeUnion": "公會",
+    "TypeWeapon": "武器"
+  },
+  "LHTRPG": {
+    "Add": "增加",
+    "Biography": {
+      "Label": "説明"
+    },
+    "ButtonLabel": {
+      "Cancel": "取消",
+      "Roll": "擲骰",
+      "Tag": {
+        "Add": "增加"
+      }
+    },
+    "Check": {
+      "Accuracy": "命中",
+      "Analysis": "分析",
+      "Athletics": "運動",
+      "Disable": "解除",
+      "Endurance": "耐久",
+      "Evasion": "回避",
+      "Knowledge": "知識",
+      "Negotiation": "交渉",
+      "Operation": "操作",
+      "Perception": "洞察",
+      "Resistance": "反抗"
+    },
+    "Connection": {
+      "Label": "角色關係.",
+      "Name": "名字"
+    },
+    "Description": {
+      "Label": "説明"
+    },
+    "Dex": "敏捷",
+    "Effect": {
+      "Label": "效果"
+    },
+    "EffectCreate": "創造效果",
+    "EffectDelete": "刪除效果",
+    "EffectEdit": "編輯效果",
+    "EffectToggle": "切換效果",
+    "Int": "智力",
+    "Item": {
+      "Label": {
+        "Accuracy": "命中",
+        "Attack": "攻擊",
+        "BagLimit": "存儲限制",
+        "BagSpace": "背包空間",
+        "Check": "判定",
+        "Equipped": "装備",
+        "Initiative": "行動",
+        "MDef": "魔法防御力",
+        "Magic": "魔力",
+        "Main": "主要武器",
+        "PDef": "物理防御力",
+        "Price": "價格",
+        "Range": "射程",
+        "Rank": "階級",
+        "Target": "目標",
+        "Timing": "時機"
+      }
+    },
+    "Label": {
+      "Afflicted": "羸弱狀態",
+      "Barrier": "障壁狀態",
+      "Cancel": "減輕狀態",
+      "Confused": "混亂狀態",
+      "Dazed": "恍惚狀態",
+      "Decay": "衰弱狀態",
+      "Defense": "防御力",
+      "Fate": "因果力",
+      "Fatigue": "疲勞狀態",
+      "Guild": "所屬公會",
+      "HP": "生命值",
+      "Hate": "弱點",
+      "ImportItems": "從 lhrpg.com 導入物品",
+      "ImportSkills": "從 lhrpg.com 導入技能",
+      "Overconfident": "自負狀態",
+      "Power": "攻擊力",
+      "Pursuit": "追撃",
+      "Race": "種族",
+      "Regen": "再生狀態",
+      "Rigor": "硬直狀態",
+      "Staggered": "萎縮狀態",
+      "Tags": "標籤",
+      "Type": "類別"
+    },
+    "Modifier": "修正値",
+    "Monster": {
+      "HateMultiplier": "Hate Mult.",
+      "Identification": "鑑定難易度",
+      "Initiative": "行動力",
+      "MDef": "魔法防御力",
+      "PDef": "物理防御力",
+      "Rank": "階級",
+      "Skills": "技能",
+      "Speed": "速度"
+    },
+    "Placeholder": {
+      "Class": "主職業",
+      "Name": "角色名字",
+      "Race": "種族",
+      "SubClass": "副職業"
+    },
+    "Pow": "威力",
+    "Skill": {
+      "Label": {
+        "Check": "判定",
+        "Cost": "花費",
+        "Limit": "限制",
+        "Range": "範圍",
+        "SR": "最大技能等級",
+        "Target": "對象",
+        "Timing": "時機"
+      },
+      "Placeholder": {
+        "Check": "-",
+        "Cost": "-",
+        "Limit": "-",
+        "Range": "-",
+        "Target": "-",
+        "Timing": "-"
+      },
+      "Type": {
+        "Basic": "基本動作",
+        "Combat": "戰鬥",
+        "General": "一般",
+        "Monster": "怪物"
+      }
+    },
+    "Status": {
+      "Label": "身份"
+    },
+    "Str": "力量",
+    "Tooltip": {
+      "AttackPower": "攻撃力",
+      "Initiative": "行動力",
+      "MagicDefense": "魔法防御力",
+      "MagicPower": "魔力",
+      "PhysDefense": "物理防御力",
+      "RestorationPower": "回復力",
+      "Speed": "速度"
+    },
+    "Union": {
+      "Label": "公會",
+      "Name": "公會名"
+    },
+    "WindowTitle": {
+      "AbilityCheck": "能力值確認",
+      "Tag": {
+        "AddNewTag": "增加新的"
+      }
+    }
+  }
+}
